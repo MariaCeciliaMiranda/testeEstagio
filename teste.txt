@@ -12,6 +12,11 @@ Caso não consiga resolver todos os exercícios, não tem problema, envie mesmo 
 Desafio 
 
 E.1 Crie uma função que recebe dois argumentos string e retorna o de maior comprimento.
+<script>
+    function testefuncao(){
+       document.getMaxOfArray(numArray) {
+    return Math.max.apply(null, numArray);
+    }
 
 E.2 Crie uma função que recebe três argumentos, uma função e duas string, aplique a função nas duas string e imprima o resultado.
 
